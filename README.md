@@ -6,7 +6,7 @@ https://996.dev
 
 | ![Anurag's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=ChinaVolvocars) | [![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=ChinaVolvocars&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-https://kayan-github-profile-projects-featu.vercel.app/
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ChinaVolvocars/count.svg" />
